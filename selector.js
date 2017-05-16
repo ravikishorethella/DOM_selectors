@@ -1,5 +1,5 @@
-// our main target is to come up with four different ways to select the first <p> tag
-
+// our main target is to come up with four different ways to select the first <p> tag present in our html code.
+// we should focus on the id selectors mainly 
 
 //======================================================================================
 
